@@ -2,7 +2,7 @@
 
 Este era mi portafolio de 2024. **Lo reemplazó la landing de WillNet:**
 
-- Web: https://willdev-landing.willdev-landing.workers.dev/
+- Web: https://willnet.dev/
 - Código: https://github.com/willgo-dev/willnet-landing
 
 La página de GitHub Pages (`willgo-dev.github.io/personal-portfolio/`) ahora **redirige** a la landing, para que los enlaces y el QR viejos sigan funcionando. El sitio original está en el historial de este repo (commit `5669a8c`).
