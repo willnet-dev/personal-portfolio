@@ -1,38 +1,12 @@
-# Willder Gomez's Portfolio
+# personal-portfolio (archivado)
 
-## Introduction
+Este era mi portafolio de 2024. **Lo reemplazó la landing de WillNet:**
 
-Welcome to my portfolio repository! I'm excited to showcase my journey as a Junior Web Developer through this collection of projects. This portfolio represents my dedication to web development using HTML, CSS, Bootstrap, and JavaScript. Whether you're here to explore my work or potentially collaborate, I appreciate your interest.
+- Web: https://willdev-landing.willdev-landing.workers.dev/
+- Código: https://github.com/willgo-dev/willnet-landing
 
-## About Me
+La página de GitHub Pages (`willgo-dev.github.io/personal-portfolio/`) ahora **redirige** a la landing, para que los enlaces y el QR viejos sigan funcionando. El sitio original está en el historial de este repo (commit `5669a8c`).
 
-I'm a passionate Junior Web Developer with a focus on creating engaging and user-friendly web experiences. My proficiency in HTML, CSS, Bootstrap, and JavaScript allows me to build dynamic and responsive websites that meet modern design standards and user expectations. With a strong foundation in these technologies, I continuously strive to expand my skills and stay updated with industry trends.
+---
 
-## Projects
-Here are some key projects from my portfolio:
-
-* My firts Website: this is my first website structure with just HTML and CSS.
-[See Project](https://willgomez22.github.io/website-structure/)
-
-* Login Form: This is a simple login form with no backend. The first project where I combine HTML, CSS and JavaScript
-[See Project](https://willgomez22.github.io/login-form/)
-
-## Technologies
-I'm proficient in a variety of web development technologies including:
-
-* HTML
-* CSS3 (including Bootstrap)
-* JavaScript
-
-## Contact Me
-If you're interested in collaborating or have any questions, feel free to reach out to me:
-
-Email: will10gomez@gmail.com
-
-LinkedIn: <a href="https://www.linkedin.com/in/willder-gomez-3322902b4/" target="_blank">Willder Gomez</a>
-
-Personal Website: <a href="https://willgomez22.github.io/html-portfolio/" target="_blank">Willder's Portfolio Website</a>
-
-I'm looking forward to connecting with you!
-
-## More about my projects coming soon...
+*This was my 2024 portfolio. It has been replaced by the WillNet landing page (links above). The GitHub Pages URL now redirects there.*
